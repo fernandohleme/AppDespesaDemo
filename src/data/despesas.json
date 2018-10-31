@@ -1,0 +1,12 @@
+[
+    {"id":1,"tipo":"Alimentação","id_relatorio":1,"valor":269,"date":"01/05/2018 00:09"},
+    {"id":2,"tipo":"Hospedagem","id_relatorio":2,"valor":21.9,"date":"01/05/2018 01:04"},
+    {"id":3,"tipo":"Transporte","id_relatorio":1,"valor":269,"date":"01/05/2018 01:56"},
+    {"id":4,"tipo":"Outros","id_relatorio":2,"valor":21.9,"date":"01/05/2018 02:55"},
+    {"id":5,"tipo":"Transporte","id_relatorio":1,"valor":39.9,"date":"01/05/2018 03:46"},
+    {"id":6,"tipo":"Alimentação","id_relatorio":1,"valor":19.9,"date":"01/05/2018 03:54"},
+    {"id":7,"tipo":"Transporte","id_relatorio":1,"valor":21.9,"date":"01/05/2018 05:27"},
+    {"id":8,"tipo":"Alimentação","id_relatorio":2,"valor":269,"date":"01/05/2018 06:29"},
+    {"id":9,"tipo":"Hospedagem","id_relatorio":2,"valor":19.9,"date":"01/05/2018 07:46"},
+    {"id":10,"tipo":"Hospedagem","id_relatorio":1,"valor":39.9,"date":"01/05/2018 08:28"}
+]
